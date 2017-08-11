@@ -35,10 +35,10 @@ var articleOne = {
            </div>
            <hr/>
            <div>
-            ${heading}
+            <h3>${heading}</h3></br>
            </div>
            <div>
-            ${date}
+            ${date}</br>
            </div>
            <div>
             ${content}
